@@ -40,7 +40,7 @@
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhileshhk&style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=nikgrindingk&style=flat-square&color=green)
 
 ---
 
