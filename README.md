@@ -23,24 +23,26 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikgrinding&show_icons=true&theme=radical" alt="Nikhilesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikgrinding&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikgrinding&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikgrinding&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgrinding&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgrinding&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikgrindingk&style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=nikgrinding&style=flat-square&color=green)
 
 ---
 
