@@ -9,7 +9,7 @@
 - 💡 I’m deeply passionate about **Web Development**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 - 💻 Always learning and building exciting things.
 - 🙂 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/-Nikhilesh%20H-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilesh-hariganesh/)](https://www.linkedin.com/in/nikhilesh-hariganesh/)  
+  [![LinkedIn](https://img.shields.io/badge/-Nikhilesh%20H-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilesh-h/)](https://www.linkedin.com/in/nikhilesh-h/)  
   ✉️ Email: nikgrinding@gmail.com
 
 ---
