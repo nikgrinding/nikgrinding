@@ -35,7 +35,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikgrinding&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgrinding&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgrinding&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
