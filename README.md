@@ -31,7 +31,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikgrinding&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikgrinding&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikgrinding&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" />
   <br/>
